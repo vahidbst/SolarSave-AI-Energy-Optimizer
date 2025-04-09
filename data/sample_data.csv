@@ -1,0 +1,6 @@
+date,energy_kwh,weather,panel_angle,temperature
+2023-06-01,18.2,Sunny,35,22
+2023-06-02,12.5,Cloudy,40,18
+2023-06-03,8.7,Rainy,30,15
+2023-06-04,15.1,Sunny,45,25
+2023-06-05,9.3,Rainy,25,12
